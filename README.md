@@ -1,20 +1,14 @@
-# Feathers 4.1.0-prerelease
+# Feathers 4.1.1
 
----
-
-**Warning:** This is a pre-release version of Feathers UI. It may contain bugs or unfinished features. It is not recommended for production apps because it is considered potentially *unstable*. Use at your own risk. To download a stable build, visit the [Feathers website](https://feathersui.com/).
-
----
-
-Say hello to [Feathers UI](https://feathersui.com/), a library of light-weight, skinnable, and extensible UI controls for mobile and desktop. The components run on [Starling Framework](http://starling-framework.org/) and [Adobe AIR](http://www.adobe.com/products/air.html) — offering blazing fast GPU powered graphics to create a smooth and responsive experience. Build completely standalone, native applications on iOS, Android, Windows, and macOS, or target Adobe Flash Player in desktop browsers. Created by [Josh Tynjala](https://twitter.com/joshtynjala) from Bowler Hat LLC, Feathers UI is free and open source.
+Say hello to [Feathers UI](https://feathersui.com/), a library of light-weight, skinnable, and extensible UI controls for mobile and desktop. The components run on [Starling Framework](https://gamua.com/starling/) and [Adobe AIR](http://www.adobe.com/products/air.html) — offering blazing fast GPU powered graphics to create a smooth and responsive experience. Build completely standalone, native applications on iOS, Android, Windows, and macOS, or target Adobe Flash Player in desktop browsers. Created by [Josh Tynjala](https://twitter.com/joshtynjala) from Bowler Hat LLC, Feathers UI is free and open source.
 
 ## Quick Links
 
 * [Website](https://feathersui.com/)
-* [Help](https://feathersui.com/help/)
+* [Help](https://feathersui.com/learn/as3-starling/getting-started)
 * [API Reference](https://feathersui.com/api-reference/)
-* [Discussion Forum](http://forum.starling-framework.org/forum/feathers)
-* [Github Project](https://github.com/BowlerHatLLC/feathers)
+* [Discussion Forum](https://forum.starling-framework.org/t/feathers)
+* [Github Project](https://github.com/BowlerHatLLC/feathersui-starling)
 
 ### News and Updates
 
@@ -25,7 +19,7 @@ Say hello to [Feathers UI](https://feathersui.com/), a library of light-weight, 
 
 * Adobe AIR 32.0 for desktop or mobile apps
 * Adobe Flash Player 19.0 for web browsers
-* Starling Framework 2.4
+* Starling Framework 2.6
 
 ## Downloads
 
